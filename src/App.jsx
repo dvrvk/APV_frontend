@@ -10,7 +10,7 @@ import Registrar from './paginas/Registrar';
 import NuevoPassword from './paginas/NuevoPassword';
 import AdministrarPacientes from './paginas/AdministrarPacientes';
 import CambiarPassword from './paginas/CambiarPassword';
-import EditarPerfil from './paginas/editarPerfil';
+import EditarPerfil from './paginas/EditarPerfil';
 
 import { AuthProvider } from './context/AuthProvider';
 import { PacientesProvider } from './context/PacientesProvider';
